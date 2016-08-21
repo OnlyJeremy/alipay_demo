@@ -1,0 +1,4 @@
+# alipay_demo
+自定义支付宝Demo
+整个KAlipayPartner、KAlipaySeller、KAlipayPrivateKey、BNB_ZHIFUBAO_NUTIFYURL(回调地址)都在AppCommonDef.h文件中，使用demo前请务必
+更改这些对应的值。
